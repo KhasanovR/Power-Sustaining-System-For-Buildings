@@ -148,15 +148,25 @@
 ## Conceptual Model for Database Design 
 
 Rectangle – Strong Entity Set
+
 Double rectangle – Weak Entity Set
+
 Diamond – Strong Relationship Set
+
 Double Diamond – Identifying Relationship Set
+
 Oval - Normal Attribute
+
 Double Oval – Multivalued Attribute
+
 Chain of Ovals – Composite Attribute
+
 Underline – Primary key
+
 Dashed Underline – Discriminator 
- ![](meta/21.jpg) -Disjoint 
+
+![](meta/21.jpg) -Disjoint 
+
 Single Relationship Set with Multiple Entity Sets in a Box – Aggregation 
 
 ### EE-R Diagram 
